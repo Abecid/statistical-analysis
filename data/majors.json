@@ -1,0 +1,20 @@
+[
+    {"Major": "EECS", "Salary": 124.9, "White": 20, "Asian": 53, "Minorities": 13, "International": 14},
+    {"Major": "CS", "Salary": 125, "White": 19, "Asian": 57, "Minorities": 5, "International": 20},
+    {"Major": "Data Science", "Salary": 100, "White": 16, "Asian": 53, "Minorities": 9, "International": 22},
+    {"Major": "Economics", "Salary": 80, "White": 19, "Asian": 41, "Minorities": 10, "International": 30},
+    {"Major": "Business", "Salary": 85, "White": 23, "Asian": 53, "Minorities": 14, "International": 10},
+    {"Major": "Applied Math", "Salary": 90, "White": 22, "Asian": 40, "Minorities": 14, "International": 23},
+    {"Major": "MCB", "Salary": 50, "White": 22, "Asian": 52, "Minorities": 14, "International": 12},
+    {"Major": "Cognitive Science", "Salary": 80, "White": 20, "Asian": 55, "Minorities": 12, "International": 13},
+    {"Major": "Statistics", "Salary": 87, "White": 11, "Asian": 49, "Minorities": 3, "International": 37},
+    {"Major": "Physics", "Salary": 78, "White": 35, "Asian": 32, "Minorities": 17, "International": 16},
+    {"Major": "Political Science", "Salary": 53, "White": 29, "Asian": 26, "Minorities": 40, "International": 5},
+    {"Major": "Psychology", "Salary": 48.776, "White": 23, "Asian": 37, "Minorities": 30, "International": 10},
+    {"Major": "Legal Studies", "Salary": 52.5, "White": 23, "Asian": 21, "Minorities": 50, "International": 6},
+    {"Major": "Public Health", "Salary": 57.6, "White": 17, "Asian": 54, "Minorities": 26, "International": 3},
+    {"Major": "Mechanical Engineering", "Salary": 87, "White": 24, "Asian": 39, "Minorities": 26, "International": 11},
+    {"Major": "Sociology", "Salary": 51, "White": 18, "Asian": 21, "Minorities": 53, "International": 9},
+    {"Major": "Bioengineering", "Salary": 74.88, "White": 21, "Asian": 55, "Minorities": 16, "International": 8}
+  ]
+  
